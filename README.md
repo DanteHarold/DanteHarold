@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dante Harold</h1>
+
 <h3 align="center">A passionate Web developer</h3>
 
 - 🌱 I’m currently learning **Node.js and ReactJS**
