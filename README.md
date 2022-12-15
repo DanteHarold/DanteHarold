@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dante Harold</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A passionate Web developer</h3>
 
-- 🌱 I’m currently learning **Node.js and TypeScript**
+- 🌱 I’m currently learning **Node.js and ReactJS**
 
-- 💬 Ask me about **JS, PHP, Java, SQL, HTML5, CSS3**
+- 💬 Ask me about **JS, Java, SQL, HTML5, CSS3**
 
-- 📝 More About Me [https://danteharold.github.io/AboutMe/](https://danteharold.github.io/AboutMe/)
+- 📝 More About Me [DanteHarold/MySite](https://danteharold.github.io/portfolio/)
 
 - 📫 How to reach me **danteharold.dev@gmail.com**
 
