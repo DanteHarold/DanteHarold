@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dante Harold</h1>
 
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 - 🌱 I’m currently learning **Node.js and ReactJS**
 
-- 💬 Ask me about **JS, Java, SQL, HTML5, CSS3**
+- 💬 Ask me about **JS, Java, SQL, Web development**
 
 - 📝 More About Me [DanteHarold/MySite](https://danteharold.github.io/portfolio/)
 
