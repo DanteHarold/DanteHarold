@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Node.js and ReactJS**
 
-- 💬 Ask me about **JS, Java, SQL, Web development**
+- 💬 Ask me about **Web development**
 
 - 📝 More About Me [DanteHarold/MySite](https://danteharold.github.io/portfolio/)
 
