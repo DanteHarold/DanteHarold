@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🌱 I’m currently learning **Node.js and ReactJS**
+- 🌱 I’m currently learning **Node.js and Angular**
 
 - 💬 Ask me about **Web development**
 
