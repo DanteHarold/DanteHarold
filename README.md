@@ -12,5 +12,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danteharold" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harold-huillca-quiroz-/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danteharold" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCUM3XySyY3wVaiqffXNMYYQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="danteharold" height="30" width="40" /></a>
