@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **a lot of stuff**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Software development**
 
 - 📝 More About Me [DanteHarold/MySite](https://danteharold.github.io/portfolio/)
 
